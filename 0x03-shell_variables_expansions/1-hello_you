@@ -1,2 +1,2 @@
 #!/bin/bash
-export user='id' | echo 'hello user'
+export u='$user' | echo 'hello $u'
