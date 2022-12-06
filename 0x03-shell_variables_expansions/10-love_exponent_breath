@@ -1,2 +1,2 @@
 #!/bin/bash
-answer = $(BREATH**LOVE)  echo $answer
+results = $((BREATH**LOVE))  echo $results
