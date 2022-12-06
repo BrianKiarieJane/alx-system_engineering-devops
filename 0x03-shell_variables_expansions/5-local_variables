@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e -n -i 'Local variables:' 'Environment variables:' 'Functions:'  set | grep "^[^ ] " printenv declare -F
+set
