@@ -1,2 +1,2 @@
 #!/bin/bash
-USER = $(whoami) | echo 'Hello $USER'
+user=$(whoami) echo "hello $user"
