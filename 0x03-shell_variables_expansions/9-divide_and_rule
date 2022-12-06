@@ -1,0 +1,2 @@
+#!/bin/bash
+answer = $(bc <<< 'scale=2; $POWER/$DIVIDE') | echo '$answer'
