@@ -1,2 +1,2 @@
 #!/bin/bash
-sort | sed -e 's/A/Z' -e 's/c/e'
+sed -e 's/A/Z' -e 's/c/e'
