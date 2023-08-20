@@ -1,2 +1,2 @@
 #!/bin/bash
-echo A-Z | tr 'AaCc' 'ZzEe'
+sort | sed -e 's/A/Z' -e 's/c/e'
