@@ -1,2 +1,2 @@
 #!/bin/bash
-BEST="School" bash -c 'echo "The BEST variable is: $BEST"'
+BEST="School"
